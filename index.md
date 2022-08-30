@@ -7,7 +7,6 @@ menu    :
 	md-as-Doc       : md-as-doc.md
 	md-as-Page      : md-as-page.md
 	md-as-Blog      : md-as-blog.md
-	Orka test				: test.md
 	[DarkMode]      : javascript:darkmode()
 -----------------------------------------------------------------------------
 
