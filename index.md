@@ -2,12 +2,12 @@
 github  : https://github.com/casualwriter/casual-markdown 
 title   : Casual-Markdown 
 menu    :    
-	Home            : index.md
-	Supported Syntax: md-syntax.md
-	md-as-Doc       : md-as-doc.md
-	md-as-Page      : md-as-page.md
-	md-as-Blog      : md-as-blog.md
-	[DarkMode]      : javascript:darkmode()
+  Home            : index.md
+  Supported Syntax: md-syntax.md
+  md-as-Doc       : md-as-doc.md
+  md-as-Page      : md-as-page.md
+  md-as-Blog      : md-as-blog.md
+  [DarkMode]      : javascript:darkmode()
 -----------------------------------------------------------------------------
 
 ## {{ title }} 
@@ -110,21 +110,21 @@ If do want to highlight different keywords, please revise or override original f
 ~~~
 //===== format code-block, highlight remarks/keywords for code/sql
 md.formatCode = function (match, title, block) {
-	// convert tag <> to &lt; &gt; tab to 3 space, support mark code using ^^^
-	block = block.replace(/</g,'&lt;').replace(/\>/g,'&gt;')
-	block = block.replace(/\t/g,'   ').replace(/\^\^\^(.+?)\^\^\^/g, '<mark>$1</mark>')
-	
-	// highlight comment and keyword based on title := none | sql | code
-	if (title.toLowerCase(title) == 'sql') {
-		block = block.replace(/^\-\-(.*)/gm,'<rem>--$1</rem>').replace(/\s\-\-(.*)/gm,' <rem>--$1</rem>')   
-		block = block.replace(/(\s)(function|procedure|return|if|then|else|end|loop|while|or|and|case|when)(\s)/gim,'$1<b>$2</b>$3')
-		block = block.replace(/(\s)(select|update|delete|insert|create|from|where|group by|having|set)(\s)/gim,'$1<b>$2</b>$3')
-	} else if ((title||'none')!=='none') {
-		block = block.replace(/^\/\/(.*)/gm,'<rem>//$1</rem>').replace(/\s\/\/(.*)/gm,' <rem>//$1</rem>')   
-		block = block.replace(/(\s)(function|procedure|return|if|then|else|end|loop|while|or|and|case|when)(\s)/gim,'$1<b>$2</b>$3')
-		block = block.replace(/(\s)(var|let|const|for|next|do|while|loop|continue|break|switch|try|catch|finally)(\s)/gim,'$1<b>$2</b>$3')
-	}
-	return '<pre title="' + title + '"><code>'  + block + '</code></pre>'
+  // convert tag <> to &lt; &gt; tab to 3 space, support mark code using ^^^
+  block = block.replace(/</g,'&lt;').replace(/\>/g,'&gt;')
+  block = block.replace(/\t/g,'   ').replace(/\^\^\^(.+?)\^\^\^/g, '<mark>$1</mark>')
+  
+  // highlight comment and keyword based on title := none | sql | code
+  if (title.toLowerCase(title) == 'sql') {
+    block = block.replace(/^\-\-(.*)/gm,'<rem>--$1</rem>').replace(/\s\-\-(.*)/gm,' <rem>--$1</rem>')   
+    block = block.replace(/(\s)(function|procedure|return|if|then|else|end|loop|while|or|and|case|when)(\s)/gim,'$1<b>$2</b>$3')
+    block = block.replace(/(\s)(select|update|delete|insert|create|from|where|group by|having|set)(\s)/gim,'$1<b>$2</b>$3')
+  } else if ((title||'none')!=='none') {
+    block = block.replace(/^\/\/(.*)/gm,'<rem>//$1</rem>').replace(/\s\/\/(.*)/gm,' <rem>//$1</rem>')   
+    block = block.replace(/(\s)(function|procedure|return|if|then|else|end|loop|while|or|and|case|when)(\s)/gim,'$1<b>$2</b>$3')
+    block = block.replace(/(\s)(var|let|const|for|next|do|while|loop|continue|break|switch|try|catch|finally)(\s)/gim,'$1<b>$2</b>$3')
+  }
+  return '<pre title="' + title + '"><code>'  + block + '</code></pre>'
 }
 ~~~
 
@@ -141,12 +141,12 @@ var md = { before: function (str) {return str}, after: function (str) {return st
 
 // re-define for extend syntax. e.g. $text$  => <strong>text</strong>
 md.before = function (str) { 
-	 return mdstr = mdstr.replace(/\$(\w.*?[^\\])\$/gm, '<strong>$1</strong>')
+   return mdstr = mdstr.replace(/\$(\w.*?[^\\])\$/gm, '<strong>$1</strong>')
 }   
 
 // re-define for extend syntax. e.g. $$text$$  => <b>text</b>
 md.after = function (str) { 
-	 return mdstr = mdstr.replace(/\$\$(\w.*?[^\\])\$\$/gm, '<b>$1</b>')
+   return mdstr = mdstr.replace(/\$\$(\w.*?[^\\])\$\$/gm, '<b>$1</b>')
 }   
 
 document.getElementById('content').innerHTML = md.html()
@@ -163,12 +163,12 @@ Frontmatter start with `---` (at least three) in first line of markdown document
 title   : Markdown-as-Page
 style   : #header { background: RoyalBlue }
 menu    :    
-	Home            : index.md
-	Supported Syntax: md-syntax.md
-	md-as-Doc       : md-as-doc.md
-	md-as-Page      : md-as-page.md
-	md-as-Blog      : md-as-blog.md
-	[DarkMode]      : javascript:darkmode() 
+  Home            : index.md
+  Supported Syntax: md-syntax.md
+  md-as-Doc       : md-as-doc.md
+  md-as-Page      : md-as-page.md
+  md-as-Blog      : md-as-blog.md
+  [DarkMode]      : javascript:darkmode() 
 -----------------------------------------------------------------------------
 
 ## {{ title }}  
@@ -178,7 +178,7 @@ menu    :
 
 After called md.html(), js program may refer these values by `md.yaml[name]` (i.e. md.yaml = { title:'Markdown-as-Page', .... }) 
 and html string with ``{{ name }}`` will be replaced with related values
-																							 
+                                               
 
 ### Applications
 
