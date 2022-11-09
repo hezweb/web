@@ -8,7 +8,6 @@ menu    :
   md-as-Page      : md-as-page.md
   md-as-Blog      : md-as-blog.md
   Lol orka        : test.md
-  [DarkMode]      : javascript:darkmode()
 -----------------------------------------------------------------------------
 
 ## {{ title }} 
