@@ -1,0 +1,631 @@
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>Sweden Mayhem Minecraft Server</title>
+	<style>
+		
+		body {
+			font-family: sans-serif;
+			text-align: center;
+			color: rgb(52, 52, 52);
+			font-size: 16px;
+			background:url(https://images5.alphacoders.com/752/752070.jpg);
+			background-position: center; 
+			background-repeat: no-repeat;
+  			background-attachment: fixed;
+			background-size: cover;
+		}
+		
+		a {
+			color:rgb(72, 134, 0);
+		}
+		
+		a:hover {
+			color: rgb(154, 199, 95);
+		}
+		
+		li {
+			line-height: 1.5;
+		}
+		
+		h1 {
+			font-size: 58px;
+			color: rgb(255, 255, 255);
+			text-shadow: 0 1px 3px black, 0 -1px 3px black;
+		}
+		
+		h3 {
+			font-size: 18px;
+			color: rgb(255, 255, 255);
+			text-shadow: 0 2px 2px #000000ad;
+		}
+		
+		.collapsible {
+			font-weight: bold;
+			background-image: linear-gradient(182deg, #5a7030, #708333 8px, #86ab47, #c1c1c1 140px);
+			color: #ffffff;
+			text-shadow: 0 2px 2px #000000ad;
+			cursor: pointer;
+			padding: 18px;
+			width: 100%;
+			max-width: 900px;
+			border-color: #6f86368c;
+			border-width: 2px;
+			outline: none;
+			font-size: 18px;
+		}
+		
+		.active,
+		.collapsible:hover {
+			background-image: linear-gradient(182deg, #b8db74, #b2c967 8px, #7ca535, #000000 140px);
+		}
+		
+		.collapsible:after {
+			content: '\002B';
+			font-weight: bold;
+			float: right;
+		}
+		
+		.active:after {
+			content: "\2212";
+		}
+		
+		.content {
+			margin: auto;
+			margin-bottom: 32px;
+			padding: 0 18px;
+			max-height: 0px;
+			width: 100%;
+			max-width: 864px;
+			text-align: left;
+			overflow: hidden;
+			transition: max-height 0.2s ease-out;
+			background-image: linear-gradient(180deg, #00000085, #0000000f 3px, transparent 100px);
+			background-color: #ffffff;
+			box-shadow: 0px 5px 20px #00000091;
+		}
+		
+	</style>
+</head>
+
+<body>
+	
+	<div>
+		<img style="margin-top: 32px;" src="mc-swm.png">
+		<div><h3>
+			<p>Server status: <span class="server-status"> checking...</span></br>
+			<small><span class="server-players-now-top"></span></small></p>
+		</h3></div>
+	</div>
+	<div>
+		</br>
+	</div>
+	
+	<button id="guide" class="collapsible active">Step by step guide</button>
+	<div class="content" style="max-height: 150%;">
+		<ol>
+			<li>Read the <a href="#server_information">Server information</a></li>
+			<li>Download and install <strong>Minecraft: Java Edition<span class="mc-ver"></span></strong></li>
+			<ul type="circle">
+				<li><small><i>Don't have Minecraft? Get it <a href="#get_minecraft">here</a></i></small></li>
+			</ul>
+			<li>Start your Minecraft launcher and click <strong>PLAY</strong></li>
+			<li>At the Minecraft main menu, click <strong>Multiplayer</strong> then click <strong>Add Server</strong></li>
+			<ul type="disc">
+				<li><strong>Server Name</strong> is <strong>Sweden Mayhem</strong></small></li>
+				<li><strong>Server Address</strong> is <strong>minecraft.hezkore.com</strong></li>
+			</ul>
+			<li>Click <strong>Done</strong> then double click <strong>Sweden Mayhem</strong> to join</li>
+		</ol>
+		
+		<p><strong>Optional:</strong></br>
+		<small><i>But recommended!</i></small></p>
+		<ul type="disc">
+			<li>Make your game  <a href="#pretty">pretty</a></li>
+			<li>Increase your FPS and decrease stuttering with <a href="#performance_tips">performance tips</a></i></small></li>
+		</ul>	
+	</div></br>
+	
+	<button id="pro_guide" class="collapsible">Pro guide</button>
+	<div class="content">
+		<ol>
+			<li>Connect to <strong>minecraft.hezkore.com</strong></li>
+			<li><a target="_blank" href="https://optifine.net/downloads">OptiFine</a> is recommended</li>
+		</ol>
+		<p>Read <a href="#server_information">Server information</a></p>
+	</div></br>
+	
+	<button id="pretty" class="collapsible active">Make your game pretty</button>
+	<div class="content" style="max-height: 150%;">
+		<p><strong>Resource Packs:</strong></br>
+		<small><i>Changes the appearance of your game and interface</i></small></p>
+		<ol>
+			<li>Start your Minecraft launcher and click <strong>PLAY</strong></li>
+			<li>At the Minecraft main menu, click <strong>Options...</strong> then click <strong>Resource Packs...</strong></li>
+			<li>Click <strong>Open Pack Folder</strong>
+			<ul type="circle">
+				<li><small><i>This opens the folder where you later need to place your resource packs, so <strong>keep it open for now!</strong></i></small></li>
+			</ul>
+			<li>Download <i>one</i> of the following resource packs:</br></li>
+				<ol type="A">
+					<li>The <a target="_blank" href="https://www.curseforge.com/minecraft/texture-packs/excalibur/download">Excalibur</a> 16x16 resource pack</li>
+					<small><i><ul type="circle">
+						<li><a target="_blank" href="https://www.curseforge.com/minecraft/texture-packs/excalibur/screenshots">Preview</a></li>
+						<li>No performance impact</li>
+						<li>Most players on this server use this resource pack</li>
+					</ul></i></small>
+					<small><i><ul type="disc">
+						<li>Use with <a target="_blank" href="https://www.curseforge.com/minecraft/texture-packs/obscurias-tools/download">Obscuria's Tools</a> to easily distinguish between tools</li>
+					</ul></i></small>
+					<li>The <a target="_blank" href="https://dokucraft.co.uk/resource-packs/light/">Dokucraft Light</a> 32x32 resource pack</li>
+					<small><i><ul type="circle">
+						<li><a target="_blank" href="https://dokucraft.co.uk/resource-packs/light/">Preview</a></li>
+						<li>Slight performance impact</li>
+					</ul></i></small>
+					<li><small>More resource packs can be found at <a target="_blank" href="https://www.curseforge.com/minecraft/texture-packs">Curseforge</a></small></li>
+				</ol>
+				<li>Place the downloaded resource pack file in your previously opened <strong>Pack Folder</strong>
+				<ul type="circle">
+					<li><small><i>The resource packs come as .zip files, do <strong>not</strong> unpack/extract them</i></small></li>
+				</ul>
+				<li>Go back to Minecraft and the new resource pack should be visible in the <strong>Available</strong> list</li>
+				<li>Hover your mouse over the new resource pack and click the <strong>arrow icon</strong> to move the pack to the <strong>Selected</strong> list</li>
+				<li>Click <strong>Done</strong></li>
+		</ol>
+		
+		<p><strong>OptiFine and shaders:</strong></br>
+		<small><i>Better performance and extra graphical effects, like shadows, sunbeams and water reflections</i></small></p>
+		<p><small><strong>Better performance:</strong></small></p>
+		<ol>
+			<li>Make sure Minecraft isn't running, then download and install <a target="_blank" href="https://optifine.net/downloads">OptiFine</a></li>
+			<ul type="circle">
+				<li><small><i>If you can't run the .jar file you'll have to install
+					<a target="_blank" href=https://www.java.com/en/download/manual.jsp>Java</a> first</i></small></li>
+			</ul>
+			<li>Start your Minecraft launcher</li>
+			<li>Make sure <strong>OptiFine</strong> is selected and click <strong>PLAY</strong></li>
+			<li>Once in Minecraft, click <strong>Options...</strong>, click <strong>Video Settings</strong> then click <strong>Performance...</strong></li>
+			<li>Switch every <strong>OFF</strong> option to <strong>ON</strong>, then click <strong>Done</strong></li>
+			<ul type="circle">
+				<li><small><i>You can leave <strong>Smooth FPS</strong> and <strong>Smooth World</strong> as
+							<strong>OFF</strong></i></small></li>
+			</ul>
+		</ol>
+		<p><small><strong>Adding shaders:</strong></small></p>
+		<ol start="6" >
+			<li>Click <strong>Shaders Folder</strong>
+			<ul type="circle">
+				<li><small><i>This opens the folder where you later need to place your shaders, so <strong>keep it open for now!</strong></i></small></li>
+			</ul>
+			<li>Download <i>one</i> of the following shader packs:</br></li>
+				<ol type="A">
+					<li>The <a target="_blank" href="https://www.curseforge.com/minecraft/customization/bsl-shaders/download">BSL</a> shader pack</li>
+					<small><i>
+					<ul type="circle">
+						<li><a target="_blank" href="bls.png">Preview</a></li>
+						<li>Medium performance impact</li>
+						<li>Water is clearly visible in darker areas</li>
+						<li>Most players on this server use this shader pack</li>
+						<li>You can use my <a target="_blank" href="https://gist.github.com/Hezkore/7f23e7604c69c8cfa90216bc003f2c21">shader options</a>, just place them in your shaders folder as a .txt
+						</br>Make sure the .txt has the same name as the pack file, for example <strong>BSL_v8.1.01.zip.txt</strong></li>
+					</ul>
+					</i></small>
+					<li><a target="_blank" href="https://www.curseforge.com/minecraft/customization/sildurs-vibrant-shaders/files">Sildur's Vibrant</a> shader pack</li>
+					<small><i>
+						<ul type="circle">
+							<li><a target="_blank" href="sildurs_vibrant.png">Preview</a></li>
+							<li>Has many versions depending on performance</li>
+							<li>Water is very hard to see in darker areas</li>
+						</ul>
+					</i></small>
+					<li><small>More shader packs can be found at the <a target="_blank" href="https://wiki.shaderlabs.org/wiki/Shaderpacks">wiki</a></small></li>
+				</ol>
+				<li>Place the downloaded shader pack file in your previously opened <strong>Shaders Folder</strong>
+				<ul type="circle">
+					<li><small><i>The shader packs come as .zip files, do <strong>not</strong> unpack/extract them</i></small></li>
+				</ul>
+				<li>Go back to Minecraft and click the new shader pack visible in the <strong>Shaders</strong> list</li>
+				<li>Click <strong>Done</strong></li>
+		</ol>
+		<ul type="disc">
+			<li>Increase your FPS and decrease stuttering with <a href="#performance_tips">performance tips</a></i></small></li>
+		</ul>
+	</div></br>
+	
+	<button id="performance_tips" class="collapsible active">Performance tips</button>
+	<div class="content" style="max-height: 100%">
+		<p><strong>Reduce stuttering while moving:</strong></p>
+		<ul>
+			<li>Make sure OptiFine is installed and that OptiFine's performance settings are <strong>ON</strong></li>
+			<ul type = "disc">
+				<li>Click <strong>Options</strong> then <strong>Video Settings</strong></li>
+				<ul type = "disc">
+					<li>Click <strong>Performance...</strong></lo>
+					<ul type="disc">
+						<li>Switch every <strong>OFF</strong> option to <strong>ON</strong></li>
+					</ul>
+					<ul type="circle">
+						<li><small><i>You can leave <strong>Smooth FPS</strong> and <strong>Smooth World</strong> as
+									<strong>OFF</strong></i></small></li>
+					</ul>
+				</ul>
+			</ul>
+			<li>Installing Minecraft to an <strong>SSD hard drive</strong> <i>might</i> help</li>
+		</ul>
+		<p><strong>Increasing FPS:</strong></br>
+		<small><i>Press F3 in-game to see your FPS</small></i></p>
+		<ul>
+			<li>Make sure OptiFine is installed and that OptiFine's performance settings are <strong>ON</strong></li>
+			<ul type = "disc">
+				<li>Click <strong>Options</strong> then <strong>Video Settings</strong></li>
+				<ul type = "disc">
+					<li>Click <strong>Performance...</strong></lo>
+					<ul type="disc">
+						<li>Switch every <strong>OFF</strong> option to <strong>ON</strong></li>
+					</ul>
+					<ul type="circle">
+						<li><small><i>You can leave <strong>Smooth FPS</strong> and <strong>Smooth World</strong> as
+									<strong>OFF</strong></i></small></li>
+					</ul>
+				</ul>
+			</ul>
+			<li>Try lowering OptiFine's <strong>Render Quality</strong></li>
+			<ul type="circle">
+				<li><small><i>A shader or the shader called <strong>Internal</strong> must be selected in the <strong>Shaders</strong> list</i></small></li>
+			</ul>
+			<ul type = "disc">
+				<li>Click <strong>Options</strong>, <strong>Video Settings</strong> then <strong>Shaders...</strong></li>
+				<ul type = "disc">
+					<li>Right click <strong>Render Quality</strong> to lower it</li>
+				</ul>
+				<ul type="circle">
+					<li><small><i>This will make the image blurry</i></small></li>
+					<li><small><i>A <strong>Render Quality</strong> below <strong>0.7x</strong> will be very blurry</i></small></li>
+				</ul>
+			</ul>
+			<li>Use a shorter <strong>Render Distance</strong></li>
+			<ul type = "disc">
+				<li>Click <strong>Options</strong> then <strong>Video Settings</strong></li>
+				<ul type = "disc">
+					<li>Lower <strong>Render Distance</strong></li>
+				</ul>
+				<ul type="circle">
+					<li><small><i>This will lower how far you can see into the distance</i></small></li>
+					<li><small><i>A <strong>Render Distance</strong> below <strong>4</strong> is not recommended</i></small></li>
+					<li><small><i>A <strong>Render Distance</strong> above <strong>12</strong> will have no effect while playing on the server</i></small></li>
+				</ul>
+			</ul>
+			<li>Disable <strong>shaders</strong></li>
+			<ul type = "disc">
+				<li>Click <strong>Options</strong>, <strong>Video Settings</strong> then <strong>Shaders...</strong></li>
+				<ul type = "disc">
+					<li>Click <strong>OFF</strong> in the <strong>Shaders</strong> list</li>
+				</ul>
+				<ul type="circle">
+					<li><small><i>This will decrease image quality significantly</i></small></li>
+				</ul>
+			</ul>
+		</ul>
+	</div></br>
+	
+	<button id="server_information" class="collapsible active">Server information</button>
+	<div class="content" style="max-height: 250%;">
+		<p><strong>General information:</strong></br>
+		<i><small><span class="server-update-time-line">Updated <span class="server-update-time">unknown</span></small></i></p>
+		<ul>
+			<li>Server is <strong>password protected</strong></li>
+			<a target="_blank" href="https://dev.bukkit.org/projects/passwordprotect"><img src="https://dustplanet.de/wp-content/uploads/2017/03/passwordprotect_banner_small.png"></a>
+			<small><i>
+				<ul type="circle">
+					<li>Contact <a target="_blank" href="https://t.me/Hezkore">@Hezkore</a> for password</li>
+				</ul>
+			</i></small>
+			<li>Server maintenance starts at <strong>04:30 CET</strong> and lasts for <strong>about 30~60 minutes</strong> depending on updates</li>
+			<li>During maintenance the server downloads the latest Minecraft server version</li>
+			<small><i>
+				<ul type="circle">
+					<li>i.e server will always use the latest Minecraft version</li>
+				</ul>
+			</i></small>
+			<li>A backup of the current world is created during each maintenance</li>
+			<li>Auto save is triggered every <strong>15 minutes</strong></li>
+			<li>Server render distance is <strong>12</strong></li>
+			<small><i>
+				<ul type="circle">
+					<li>So you should set your <strong>Render Distance</strong> to <strong>12</strong> as well</li>
+				</ul>
+			</i></small>
+			<li>Max player limit is <strong><span class="server-players-max"> querying...</span></strong></li>
+			<small><i>
+				<ul type="circle">
+					<li><span class="server-players-now-info">No players online right now</span></li>
+				</ul>
+			</i></small>
+			<li>The server does not authenticate with the Minecraft account database</li>
+			<li>Running server software <strong><span class="server-name"> querying...</span></strong></li>
+			<li>Server runs on a <strong>4 core 3.0GHz AMD processor</strong></li>
+			<li>Minecraft is limited to <strong>6GB</strong> ram from the servers total 16GB ram</li>
+			<li>The server has a <strong>300Mbit</strong> upload rate</li>
+			<li>Server address is <strong>minecraft.hezkore.com</strong></li>
+		</ul>
+		<p><strong>Features:</strong></p>
+		<ul>
+			<li>Password protected server</li>
+			<small><i><ul type="circle">
+				<li>You will not be able to move or interact with the world until you've logged in</li>
+			</ul></small></i>
+			<ul type="disc"><small><i>
+				<li>Press <strong>T</strong> on your keyboard and type <strong>/login &ltpassword&gt</strong> to login</li>
+				<i><ul type="circle">
+					<li>Trusted players are not required to login</li>
+				</ul></i>
+			</ul></i></small>
+			<li>Skins for authenticated and unauthenticated players</li>
+			<small><i>
+				<ul type="disc">
+					<li>Type <strong>/skins</strong> to select your skin</li>
+					<li>Type <strong>/skin url &ltskin.png url&gt [steve / slim]</strong> to upload your own skin</li>
+					<ul type="circle">
+						<li>You can use skin urls directly from <a target="_blank" href="https://www.minecraftskins.com/">minecraftskins.com</a> by clicking <strong>Image Link</strong> and copying the link</li>
+					</ul>
+				</ul>
+			</i></small>
+			<li>You can view the world map online by going <a target="_blank" href="http://minecraft.hezkore.com:8100">here</a></li>
+			<small><i>
+				<ul type="circle">
+					<li>Will be unavailable during maintenance</li>
+					<li>Does not render caves with no natural sky light and never below depth 0</li>
+				</ul>
+			</i></small>
+			<small><i><ul type="disc">
+				<li>Type <strong>/bluemap marker create &ltid&gt &ltmap-id&gt [x y z] &ltlabel&gt</strong> to place a marker on the world map</li>
+				<i>
+					<ul type="circle">
+						<li>Accepted <strong>map-ids</strong> are <strong>world</strong>, <strong>nether</strong> and <strong>end</strong></li>
+					</ul>
+					<ul type="circle">
+						<li>You can get <strong>x y</strong> and <strong>z</strong> coordinates from the online world map, or leave it empty to use your curren in-game coordinates</li>
+					</ul>
+				</i>
+				<li>Type <strong>/bluemap marker remove &ltid&gt</strong> to remove a marker</li>
+				<li>Type <strong>/bluemap marker list</strong> to list all existing markers and their ids</li>
+			</ul></i></small>
+			<li>The last 7 world backups can be found <a target="_blank" href="http://worldbackup.hezkore.com">here</a></li>
+			<small><i>
+				<ul type="circle">
+					<li>May be unavailable during maintenance</li>
+				</ul>
+			</i></small>
+			<li>Check server latency/ping</li>
+			<small><i>
+				<ul type="disc">
+					<li>Type <strong>/ping</strong> to see your own ping</li>
+					<ul type="circle">
+						<li>A ping below <strong>115ms</strong> is usually fine</li>
+					</ul>
+					<li>Type <strong>/ping &ltplayer&gt</strong> to see another players ping</li>
+				</ul>
+			</i></small>
+			<li>Display where mobs can spawn</li>
+			<small><i>
+				<ul type="disc">
+					<li>Type <strong>/LL</strong> to toggle mob spawn indication</li>
+					<ul type="circle">
+						<li>Smoke indicates a block dark enough for mobs to spawn on</li>
+					</ul>
+				</ul>
+			</i></small>
+			<li>Sort container items</li>
+			<small><i>
+				<ul type="disc">
+					<li>Right click outside any container <small><i>(inventory, chest etc.)</i></small> to automatically sort it</li>
+					<ul type="circle">
+						<li>Only works once every second</li>
+					</ul>
+					<li>Type <strong>/sortingconfig categories set &ltcategory&gt</strong> if you want to change sorted categories</li>
+					<li>Type <strong>/sortingconfig categories reset</strong> to reset to default categories</li>
+				</ul>
+			</i></small>
+			<li>Refill hotbar items</li>
+			<small><i>
+				<ul type="circle">
+					<li>All item types enabled by default</li>
+				</ul>
+				<ul type="disc">
+					<li>Type <strong>/sortingconfig refill &ltBLOCKS/BREAKABLES/CONSUMABLES&gt &lttrue/false&gt</strong> to set refill for a specific item type</li>
+					<li>Type <strong>/sortingconfig refill &lttrue/false&gt</strong> to set refill for all item types</li>
+				</ul>
+			</i></small>
+			<li>Beehive information</li>
+			<small><i>
+				<ul type="disc">
+					<li><strong>Right click</strong> a beehive to get in-game information about it</li>
+				</ul>
+				<ul type="circle">
+					<li>Only works when your hands are empty</li>
+				</ul>
+			</i></small>
+			<li>Playtime</li>
+			<small><i>
+				<ul type="disc">
+					<li>Type <strong>/playtime</strong> to see your total play time</li>
+					<li>Type <strong>/playtime &ltplayer&gt</strong> to see another players total play time</li>
+				</ul>
+			</i></small>
+			<li>Death compass</li>
+			<small><i>
+				<ul type="circle">
+					<li>A <strong>death compass</strong> is given to any player that dies</li>
+					<li>The <strong>death compass</strong> always points to the last location where the player died</li>
+				</ul>
+				<ul type="disc">
+					<li>Dropping your current death compass will <strong>destroy it forever</strong></li>
+				</ul>
+			</i></small>
+			<li>Away from keyboard</li>
+			<small><i>
+				<ul type="circle">
+					<li>A player enters <strong>AFK</strong> mode after <strong>3 minutes</strong> of <strong>standing still</strong></li>
+					<li>Moving will force the player out of AFK mode</li>
+					<li>A player in AFK mode <strong>will not block sleeping attempts</strong></li>
+					<li>A <span style="color:rgb(100, 100, 100)"><strong><i>[AFK]</i></span> suffix</strong> is applied to AFK players in the <strong>TAB player list</strong></li>
+				</ul>
+				<ul type="disc">
+					<li>Type <strong>/afk</strong> to manually enter or leave AFK mode</li>
+					<li>Type <strong>/afk &ltreason&gt</strong> to enter AFK mode with a broadcasted reason</li>
+				</ul>
+			</i></small>
+			<li>Private messages</li>
+			<small><i>
+				<ul type="disc">
+					<li>Type <strong>/pm &ltplayer&gt &ltyour message&gt</strong> to send a private message to any player</li>
+					<li>Type <strong>/r &ltyour message&gt</strong> reply to the last private message you </li>
+				</ul>
+			</i></small>
+			<li>Mail</li>
+			<small><i>
+				<ul type="circle">
+					<li>Send messages to offline players by using the mail system</li>
+					<li>Players are notified about received mail during login</li>
+				</ul>
+				<ul type="disc">
+					<li>Type <strong>/mail send &ltplayer&gt &ltyour message&gt</strong> to send mail to any player</li>
+					<li>Type <strong>/mail read</strong> to read your received mail</li>
+					<li>Type <strong>/mail</strong> for more mail commands</li>
+				</ul>
+			</i></small>
+			<li>Hats!</li>
+			<small><i>
+				<ul type="disc">
+					<li>Most items can be placed in your <strong>head equipment slot</strong></li>
+				</ul>
+			</i></small>
+			<li>Me Action</li>
+			<small><i>
+				<ul type="disc">
+					<li>Type <strong>/me &ltdoes something&gt</strong> to display a IRC styled me action message</li>
+				</ul>
+			</i></small>
+			<li>Recipes</li>
+			<small><i>
+				<ul type="disc">
+					<li>Type <strong>/recipe &ltitem_name&gt</strong> to display the recipe for that item</li>
+					<ul type="circle">
+						<li>Typing <strong>/formula &ltitem_name&gt</strong> also works</li>
+					</ul>
+					<li>Type <strong>/itemdb &ltitem_name&gt</strong> to search for an item name</li>
+				</ul>
+			</i></small>
+		</ul>
+	</div></br>
+	
+	<button id="get_minecraft" class="collapsible active">Get Minecraft</button>
+	<div class="content" style="max-height: 100%">
+		<ol type="A">
+			<li>👼 Legal alternative <i><small>(recommended)</small></i> 👼</li>
+			<ul type = "disc">
+				<li>Buy Minecraft at the <a target="_blank" href="https://www.minecraft.net/get-minecraft">official homepage</a></li>
+				<ul type="circle">
+					<li><small><i>Requires a Hotmail/Microsoft account</i></small></li>
+				</ul>
+			</ul>
+			<li>🐞 Free trial alternative <i><small>(limited)</small></i> 🐞</li>
+			<ul type = "disc">
+				<li>The Minecraft: Java Edition Free Trial version has a bug that lets you access the multiplayer menu</li>
+				<ul type="circle">
+					<li><small><i>Limitations</i></small></li>
+					<ul type="disc">
+						<li><small><i>Locked to the username <strong>Player</strong></i></small></li>
+						<li><small><i>Only one free trial player per server</i></small></li>
+						<li><small><i>Requires a Hotmail/Microsoft account</i></small></li>
+					</ul>
+				</ul>
+				<ol>
+					<li>Download and install the Minecraft: Java Edition Free Trial<span class="mc-ver"></span> from the <a target="_blank" href="https://www.minecraft.net/free-trial">official homepage</a></li>
+					<ul type="circle">
+						<li><small><i>Scroll down on the page to reach the <strong>Minecraft: Java Edition Free Trial</strong></i></small></li>
+					</ul>
+					<li>Start your Minecraft launcher and login with a Hotmail/Microsoft account that does not own Minecraft</li>
+					<li>Click <strong>PLAY DEMO</strong></li>
+					<li>Once Minecraft has started click <strong>Play Demo World</strong></li>
+					<ul type="circle">
+						<li><small><i>You'll get information about the demo once in-game, just click <strong>Continue Playing!</strong></i></small></li>
+					</ul>
+					<li>Press <strong>Escape</strong> on your keyboard, then click <strong>Open to LAN</strong></li>
+					<li>Click <strong>Allow Cheats</strong> so that it's set to <strong>ON</strong></li>
+					<li>Click <strong>Start LAN World</strong></li>
+					<li>Press <strong>T</strong> on your keyboard and type <strong>/kick @p</strong></li>
+					<li>Click <strong>Back to Server List</strong></li>
+					<li>You'll now be at the multiplayer menu</li>
+					<li>Follow step 4 from the <a href="#guide">Step by step guide</a></li>
+				</ol>
+			</ul>
+			<li>🏴‍☠️ Illegal alternatives <i><small>(potentially dangerous)</small></i> 🏴‍☠️</li>
+			<ul type="circle">
+				<li><small><i>The OptiFine .jar file usually has to be manually placed in your <strong>.minecraft/versions/</strong></i> folder</small></li>
+			</ul>
+			<ul type = "disc">
+				<li>Open-source <a target="_blank" href="https://gdevs.io">GDLauncher</a> <a target="_blank" href="https://github.com/gorilla-devs/GDLauncher"><i><small>(source)</small></i></a></li>
+				<li>Open-source <a target="_blank" href="https://nightly.link/AfoninZ/MultiMC5-Cracked/workflows/main/develop">Cracked MultiMC 5</a> <a target="_blank" href="https://github.com/AfoninZ/MultiMC5-Cracked"><i><small>(source)</small></i></a></li>
+				<li>Closed-source <a target="_blank" href="https://tlauncher.org/">TLauncher</a></li>
+				<ul type="circle">
+					<li><small><i>Works great, but has a bad reputation</small></li>
+				</ul>
+			</ul>
+		</ol>
+	</div></br>
+	
+	<script src="https://mcapi.us/scripts/minecraft.min.js"></script>
+	<script>
+		var coll = document.getElementsByClassName("collapsible");
+		var i;
+		
+		for (i = 0; i < coll.length; i++) {
+			coll[i].addEventListener("click", function () {
+				this.classList.toggle("active");
+				var content = this.nextElementSibling;
+				if (content.style.maxHeight) {
+					content.style.maxHeight = null;
+				} else {
+					content.style.maxHeight = content.scrollHeight + "px";
+				}
+			});
+		}
+		
+		MinecraftAPI.getServerStatus('minecraft.hezkore.com', { port: 25565
+		}, function (err, status) {
+			if (err) {
+				document.querySelector('.server-players-max').innerHTML = 'unknown';
+				document.querySelector('.server-name').innerHTML ='unknown';
+				document.querySelector('.server-update-time-line').innerHTML = 'Not all information available during maintenance';
+				return document.querySelector('.server-status').innerHTML = '<span style="color:rgb(135, 255, 245)">maintenance</span></br><span style="font-size: small;"><small><i>(not all information will be available)</i></small></span>';
+			}
+			document.querySelector('.server-status').innerHTML = status.online ? '<span style="color:rgb(215 241 116)">online</span>' : '<span style="color:rgb(255, 146, 146)">offline</span>';
+			document.querySelector('.server-players-max').innerHTML = status.online ? status.players.max + " <small><i>(increased on request)</i></small>" : 'unknown';
+			document.querySelector('.server-players-now-top').innerHTML = status.players.now ? status.players.now + ' player(s) online right now' : '';
+			document.querySelector('.server-players-now-info').innerHTML = status.players.now ? status.players.now + ' player(s) online right now' : 'No players online right now';
+			document.querySelector('.server-name').innerHTML = status.online ? status.server.name : 'unknown';
+			
+			if (status.online) {
+				let ver = status.server.name.split(" ")[1]
+				document.querySelector('.mc-ver').innerHTML = ' version ' + ver;
+			}
+			
+			let unix_timestamp = status.last_updated
+			var date = new Date(unix_timestamp * 1000);
+			var hours = date.getHours();
+			var minutes = "0" + date.getMinutes();
+			var seconds = "0" + date.getSeconds();
+			
+			// Will display time in 10:30:23 format
+			var formattedTime = hours + ':' + minutes.substr(-2) + ':' + seconds.substr(-2);
+			
+			document.querySelector('.server-update-time').innerHTML = status.last_updated ? formattedTime : 'unknown';
+		});
+	</script>
+</body>
+
+<div class="content" style="margin-bottom: 700px;"></div>
+
+</html>
