@@ -11,6 +11,15 @@ menu    :
 
 ### What is this?
 
-You've found my personal homepage.\
-It probably won't contain anything of interest unless I've specifically sent you here.\
+You've found my personal homepage.
+
+
+It probably won't contain anything of interest, unless I've specifically sent you here.
+
+
 Use the header bar at the top of the screen to navigate your way through the different sections.
+
+### Contact me
+
+* [Hezkore](https://hezkore.t.me/) on Telegram
+* [Hezkore](https://github.com/Hezkore) on GitHub
