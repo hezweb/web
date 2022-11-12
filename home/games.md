@@ -15,7 +15,12 @@ Visit [hezkore.com/minecraft](https://hezkore.com/minecraft) for full guide and 
 
 ### Core Keeper
 
-Connect to Game ID `kNQkUVm5ebdunTfeAwzuaXR7HtCG`
+Connect to the Sweden Mayhame Game ID
+<details>
+  <summary>Game ID</summary>
+  
+  `kNQkUVm5ebdunTfeAwzuaXR7HtCG`
+</details>
 
 ### OpenTTD
 
