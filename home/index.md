@@ -1,6 +1,6 @@
 -----------------------------------------------------------------------------
 github  : https://github.com/hezkore
-title   : Hezkore Home
+title   : Hezkore.com
 menu    :    
   Home            : index.md
   Plex            : plex.md
@@ -9,4 +9,8 @@ menu    :
 
 # {{ title }} 
 
-This is my person homepage, where I'll organize and store my current projects
+## What is this?
+
+You've found my personal homepage.\
+It probably won't contain anything of interest unless I've specifically sent you here.\
+Use the header bar at the top of the screen to navigate your way through the different sections.
