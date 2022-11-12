@@ -1,10 +1,10 @@
 -----------------------------------------------------------------------------
 github  : https://github.com/hezkore
-title   : Home of Hezkore
-menu    :
-	Home	: index.md
-	Plex	: plex.md
-	Games	: games.md
+title   : Hezkore Home
+menu    :    
+  Home            : index.md
+  Plex            : md-syntax.md
+  Games           : games.md
 -----------------------------------------------------------------------------
 
 ## {{ title }} 
