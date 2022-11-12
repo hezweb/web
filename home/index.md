@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------------
 github  : https://github.com/hezkore
 title   : Hezkore.com
-menu    :    
+menu    :
   Home            : index.md
   Plex            : plex.md
   Games           : games.md
