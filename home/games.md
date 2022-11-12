@@ -2,7 +2,7 @@
 github  : https://github.com/hezkore
 title   : Game Server
 menu    :
-  Home  : index.md
+  Back Home  : index.md
 -----------------------------------------------------------------------------
 
 ## {{ title }} 
