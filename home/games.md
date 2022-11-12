@@ -15,10 +15,11 @@ Visit [hezkore.com/minecraft](https://hezkore.com/minecraft) for full guide and 
 
 ### Core Keeper
 
-Connect to the Sweden Mayhame Game ID
+Connect to the Sweden Mayhame Game ID.
+
 <details>
-  <summary>Game ID</summary>
-  
+  <summary>Secret Game ID</summary>
+
   `kNQkUVm5ebdunTfeAwzuaXR7HtCG`
 </details>
 
