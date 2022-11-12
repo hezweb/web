@@ -7,6 +7,6 @@ menu    :
   Games           : games.md
 -----------------------------------------------------------------------------
 
-## {{ title }} 
+# {{ title }} 
 
 This is my person homepage, where I'll organize and store my current projects
