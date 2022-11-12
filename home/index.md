@@ -7,9 +7,9 @@ menu    :
   Games           : games.md
 -----------------------------------------------------------------------------
 
-# {{ title }} 
+## {{ title }} 
 
-## What is this?
+### What is this?
 
 You've found my personal homepage.\
 It probably won't contain anything of interest unless I've specifically sent you here.\

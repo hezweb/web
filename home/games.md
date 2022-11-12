@@ -5,15 +5,15 @@ menu    :
   Back Home  : index.md
 -----------------------------------------------------------------------------
 
-# {{ title }} 
+## {{ title }} 
 
 Game servers hosted by me.
 
-## Minecraft
+### Minecraft
 
 Visit [hezkore.com/minecraft](https://hezkore.com/minecraft) for full guide and server information.
 
-## Core Keeper
+### Core Keeper
 
 Connect to the Sweden Mayhame Game ID.
 
@@ -23,10 +23,10 @@ Connect to the Sweden Mayhame Game ID.
   `kNQkUVm5ebdunTfeAwzuaXR7HtCG`
 </details>
 
-## OpenTTD
+### OpenTTD
 
 Currently not active.
 
-## Valheim
+### Valheim
 
 Currently not active.
