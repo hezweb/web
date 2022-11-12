@@ -9,4 +9,20 @@ menu    :
 
 ## {{ title }} 
 
-This is my person homepage, where I'll organize and store my current projects.
+Game servers hosted by me.
+
+### Minecraft
+
+Visit [hezkore.com/minecraft](https://hezkore.com/minecraft) for full guide and server information.
+
+### Core Keeper
+
+Connect to Game ID `kNQkUVm5ebdunTfeAwzuaXR7HtCG`
+
+### OpenTTD
+
+Currently not active.
+
+### Valheim
+
+Currently not active.
