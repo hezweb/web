@@ -6,16 +6,23 @@ menu    :
 -----------------------------------------------------------------------------
 
 ## {{ title }} 
+Game servers hosted under the "Sweden Mayhem" label.
 
-Game servers hosted by me.
+Server maintenance starts at 04:30 CET and lasts for about 30~60 minutes depending on updates
 
 ### Minecraft
+Password protected. Contact [@Hezkore](https://hezkore.t.me/) for access.
 
-Visit [hezkore.com/minecraft](https://hezkore.com/minecraft) for full guide and server information.
+### Instructions
+Visit [hezkore.com/minecraft](https://hezkore.com/minecraft) for full guide and instructions.
 
 ### Core Keeper
+Public server.
 
-Connect to the Sweden Mayhame Game ID.
+#### Instructions
+Core Keeper is available on [Steam](https://store.steampowered.com/app/1621690/Core_Keeper/).
+
+Start the game and join the Sweden Mayhem server via the secret game ID.
 
 <details>
   <summary>Secret Game ID</summary>
@@ -23,10 +30,14 @@ Connect to the Sweden Mayhame Game ID.
   `kNQkUVm5ebdunTfeAwzuaXR7HtCG`
 </details>
 
-### OpenTTD
+### Brutal DOOM
+Public server.
 
+#### Instructions
+Start the game and connect to `doom.hezkore.com`
+
+### OpenTTD
 Currently not active.
 
 ### Valheim
-
 Currently not active.
