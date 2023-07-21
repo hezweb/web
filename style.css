@@ -60,6 +60,10 @@ body {
 	-webkit-tap-highlight-color: transparent;
 }
 
+.link.no {
+	text-decoration:line-through;
+}
+
 @media (hover: hover) {
 	.link:hover {
 		background-color: var(--accentColor);
