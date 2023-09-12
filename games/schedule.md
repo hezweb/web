@@ -1,9 +1,12 @@
 -----------------------------------------------------------------------------
-github  : https://github.com/hezkore
-title   : DOOM
-menu    :
+github: https://github.com/hezkore
+title: Gaming Schedule
+menu:
   Back Home  : index.md
 -----------------------------------------------------------------------------
 
-## {{ title }} 
+# {{ title }}
 
+## DOOM 1
+- **Event Name**: Friday Night Frag Fest
+- **Time**: 21:00 UTC+2

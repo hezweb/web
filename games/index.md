@@ -1,19 +1,20 @@
 -----------------------------------------------------------------------------
-github  : https://github.com/hezkore
-title   : Sweden Mayhem
-menu    :
-  DOOM            : doom.md
-  Minecraft            : minecraft.md
+github: https://github.com/hezkore
+title: Sweden Mayhem
+menu:
+  Schedule: schedule.md
+  DOOM: doom.md
+  Minecraft: minecraft.md
 -----------------------------------------------------------------------------
 
-## {{ title }} 
+# Welcome to {{ title }}
 
-### Welcome to Sweden Mayhem!
+Sweden Mayhem is your gaming hub, providing servers for various games. We're here to help you enjoy gaming with ease and connect with fellow players. Specific game information is available in the menu above.
 
-We host servers for a number of games, this webpage will provide you with all the information you need to join us.
+## Get Started
 
-Use the menu bar at the top to navigate.
+To start gaming, use the menu above to find information about your favorite games like DOOM and Minecraft. You'll discover all you need to join our servers.
 
-### Contact us
+## Stay Connected
 
-* [Sweden Mayhem](https://hezkore.t.me/) on Telegram
+Have questions or want to chat with fellow gamers? Join our community on [Sweden Mayhem's Telegram](https://hezkore.t.me/). We're here to assist you and discuss gaming topics.
