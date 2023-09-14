@@ -7,7 +7,7 @@ menu    :
 
 # {{ title }}
 
-## Sweden Mayhem DOOM Package
+## Automatic Installation
 Sweden Mayhem offers a complete DOOM package for quick jump-in-and-play sessions on Windows, no installation required.
 
 The package includes:
