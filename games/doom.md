@@ -28,7 +28,7 @@ If you prefer to install the games manually, you can follow the instructions bel
 You will need the DOOM WAD files, the Brutal DOOM mod, DOOM Metal Soundtrack mod and the Zandronum client.
 
 - You can find all the WAD files and mods on the [Sweden Mayhem DOOM depot](http://doom.hezkore.com:8080).
-- The Zandronum client can download from the [official website](https://zandronum.com/download).
+- The Zandronum client can be download from the [official website](https://zandronum.com/download).
 
 ### Joining the server
 
