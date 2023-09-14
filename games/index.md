@@ -9,9 +9,10 @@ menu:
 
 # Welcome to {{ title }}
 
-Sweden Mayhem is a gaming community that offers:
+Sweden Mayhem is a multiplayer gaming community that offers:
 
 - No need to register or commit
+- No forced social interaction
 - Minimal installation required
 - A fixed schedule for gaming sessions
 
