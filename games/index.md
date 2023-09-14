@@ -9,12 +9,18 @@ menu:
 
 # Welcome to {{ title }}
 
-Sweden Mayhem is your gaming hub, providing servers for various games. We're here to help you enjoy gaming with ease and connect with fellow players. Specific game information is available in the menu above.
+Sweden Mayhem is a gaming hub, providing servers for various games and a fixed schedule for gaming sessions, no registration or other requirements needed.\
+We're here to help you enjoy gaming with ease and connect with fellow players.
+
+Specific game information is available in the menu above.
 
 ## Get Started
 
-To start gaming, use the menu above to find information about your favorite games like DOOM and Minecraft. You'll discover all you need to join our servers.
+To start gaming, use the menu above to find information about the games we offer.\
+Each section will contain all the information you need to get started.
 
-## Stay Connected
+## Chat, Voice & Announcements
 
-Have questions or want to chat with fellow gamers? Join our community on [Sweden Mayhem's Telegram](https://hezkore.t.me/). We're here to assist you and discuss gaming topics.
+You'll find our [Sweden Mayhem channel](https://t.me/+ypcUd8UWDfI2NzJk) on Telegram, along with our [Sweden Mayhem group](https://t.me/+pSTKkBrip2MyODU0) for discussions and voice chat.
+
+Joining either the announcement channel or the chat group is optional, but the announcement channel is recommended to stay up to date with the latest news, and when a gaming session is about to start.
