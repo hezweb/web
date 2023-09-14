@@ -9,9 +9,11 @@ menu:
 
 # Welcome to {{ title }}
 
-Sweden Mayhem is a gaming hub, providing servers for various games and a fixed schedule for gaming sessions, no registration or other requirements needed.
+Sweden Mayhem is a gaming community that offers:
 
-We're here to help you enjoy gaming with ease and connect with fellow players.
+- No need to register or commit
+- Minimal installation required
+- A fixed schedule for gaming sessions
 
 Specific game information is available in the menu above.
 
