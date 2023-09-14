@@ -25,13 +25,16 @@ You can always download the latest version of the package [here](http://doom.hez
 If you prefer to install the games manually, you can follow the instructions below.
 
 ### Client setup
+You will need the DOOM WAD files, the Brutal DOOM mod, DOOM Metal Soundtrack mod and the Zandronum client.
 
-You can find all the WAD files and mods on the [Sweden Mayhem DOOM depot](http://doom.hezkore.com:8080).
-
-You will also need the Zandronum client, which you can download from their official [website](https://zandronum.com/download).
+- You can find all the WAD files and mods on the [Sweden Mayhem DOOM depot](http://doom.hezkore.com:8080).
+- The Zandronum client can download from the [official website](https://zandronum.com/download).
 
 ### Joining the server
 
 Once you have the Zandronum client installed and setup, you can join the "Sweden Mayhem" server either via the in-game server browser, or by entering the server address manually in the console via the `connect` command.
 
-The server address is `doom.hezkore.com` and the port is `10666` for DOOM 1, `10667` for DOOM 2 and `10668` for Sigil.
+- Server address: `doom.hezkore.com`
+  - Port 10666 for DOOM 1
+  - Port 10667 for DOOM 2
+  - Port 10668 for Sigil
