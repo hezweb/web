@@ -4,7 +4,7 @@ title: Sweden Mayhem
 menu:
   Schedule: schedule.md
   DOOM: doom.md
-  Minecraft: minecraft.md
+  Minecraft: https://hezkore.com/minecraft
 -----------------------------------------------------------------------------
 
 # Welcome to {{ title }}
