@@ -29,9 +29,9 @@ To kick off your gaming journey, utilize the menu at the top to access informati
 2. When you've found a game that you like and that we're playing, use the menu at the top to see how to join us
 
 
-- [Join us on Telegram](#toc-item-2) (optional)
+- [Join us on Telegram](#toc-item-2) for announcements and chat (optional)
 
-## Chat, Voice & Announcements
+## Telegra mChat, Voice & Announcements
 
 We maintain both a channel and group chat on Telegram.
 
