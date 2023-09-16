@@ -35,6 +35,7 @@ We maintain both a channel and group chat on Telegram.
   - Automatic announcements from our Sweden Mayhem bot
   - Useful when you only want to be informed about scheduled gaming sessions
 
+
 - Click to join the [Sweden Mayhem group chat](https://t.me/+pSTKkBrip2MyODU0)
   - A standard Telegram group chat
   - Allows user messages and voice chat
