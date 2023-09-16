@@ -30,7 +30,7 @@ Each section contains all the details you need to get started.
 We maintain both a channel and group chat on Telegram.
 
 - Click to join the [Sweden Mayhem channel](https://t.me/+ypcUd8UWDfI2NzJk)
-  - Anonymous *(your membership is private and hidden)*
+  - Anonymous (your membership is private and hidden)
   - No user messages or voice chat
   - Automatic announcements from our Sweden Mayhem bot
   - Useful when you only want to be informed about scheduled gaming sessions
