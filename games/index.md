@@ -49,3 +49,5 @@ We dislike the need for account registration, obligatory introductions on forums
 We believe that gaming should be straightforward and enjoyable, not a time-consuming endeavor.
 
 While our gaming servers are online most of the time, the scheduled gaming sessions offer the best opportunity to find a gaming buddy.
+
+We reserve the right to take action, including kicking and banning individuals, in order to uphold this standard of friendliness and respect within our community.
