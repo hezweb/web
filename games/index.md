@@ -9,23 +9,41 @@ menu:
 
 # Welcome to {{ title }}
 
-Sweden Mayhem is a multiplayer gaming community that offers:
+Sweden Mayhem is a multiplayer gaming community built on a few core principles:
 
-- No need to register or commit
-- No forced social interaction
-- Minimal installation required
+- No registration or commitments required
+- No mandatory social interactions
+- No or limited installation requirements
+- Easy to maintain anonymity and privacy
 - A fixed schedule for gaming sessions
 
-Specific game information is available in the menu above.
+You can delve deeper into our core principles below.
 
-## Get Started
+## Getting Started
 
-To start gaming, use the menu above to find information about the games we offer.
+To kick off your gaming journey, utilize the menu at the top to access information about our available games.
 
-Each section will contain all the information you need to get started.
+Each section contains all the details you need to get started.
 
 ## Chat, Voice & Announcements
 
-You'll find our [Sweden Mayhem channel](https://t.me/+ypcUd8UWDfI2NzJk) on Telegram, along with our [Sweden Mayhem group](https://t.me/+pSTKkBrip2MyODU0) for discussions and voice chat.
+We maintain both a channel and group chat on Telegram.
 
-Joining either the announcement channel or the chat group is optional, but the announcement channel is recommended to stay up to date with the latest news, and when a gaming session is about to start.
+- Click to join the [Sweden Mayhem channel](https://t.me/+ypcUd8UWDfI2NzJk)
+  - Anonymous _(your membership is private and hidden)_
+  - No user messages or voice chat
+  - Automatic announcements from our Sweden Mayhem bot
+  - Useful when you only want to be informed about scheduled gaming sessions
+- Click to join the [Sweden Mayhem group chat](https://t.me/+pSTKkBrip2MyODU0)
+  - A standard Telegram group chat
+  - Allows user messages and voice chat
+  - Automatic announcements are also visible here
+  - Ideal for text or voice communication
+
+## Core Principles
+
+We dislike the need for account registration, obligatory introductions on forums or Discord servers, lengthy community rule readings, and commitments to timed events.
+
+We believe that gaming should be straightforward and enjoyable, not a time-consuming endeavor.
+
+While our gaming servers are online most of the time, the scheduled gaming sessions offer the best opportunity to find a gaming buddy.
