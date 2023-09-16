@@ -18,13 +18,15 @@ Sweden Mayhem is a multiplayer gaming community built on a few core principles:
 - Easy to maintain anonymity and privacy
 - A fixed schedule for gaming sessions
 
-You can delve deeper into our core principles below.
+You can delve deeper into our [core principles](#toc-item-3) below.
 
 ## Getting Started
 
 To kick off your gaming journey, utilize the menu at the top to access information about our available games.
 
-Each section contains all the details you need to get started.
+  1. Visit our [Gaming Schedule](?file=schedule.md) to find out when and what we're playing
+  2. When you've found a game that you like and that we're playing, use the menu at the top to see how to join us
+  - [Join us on Telegram](#toc-item-2) (optional)
 
 ## Chat, Voice & Announcements
 
