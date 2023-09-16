@@ -4,6 +4,7 @@ title: Sweden Mayhem
 menu:
   Schedule: schedule.md
   DOOM: doom.md
+  OpenTTD: openttd.md
   Minecraft: https://hezkore.com/minecraft
 -----------------------------------------------------------------------------
 
