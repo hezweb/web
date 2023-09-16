@@ -31,7 +31,7 @@ To kick off your gaming journey, utilize the menu at the top to access informati
 
 - [Join us on Telegram](#toc-item-2) for announcements and chat (optional)
 
-## Telegra mChat, Voice & Announcements
+## Telegram Chat, Voice & Announcements
 
 We maintain both a channel and group chat on Telegram.
 
