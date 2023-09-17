@@ -5,7 +5,6 @@ menu:
   Schedule: schedule.md
   DOOM: doom.md
   OpenTTD: openttd.md
-  Minecraft: https://hezkore.com/minecraft
 -----------------------------------------------------------------------------
 
 # Welcome to {{ title }}
@@ -41,7 +40,7 @@ We maintain both a channel and group chat on Telegram.
   - Anonymous (your membership is private and hidden)
   - No user messages or voice chat
   - Automatic announcements from our Sweden Mayhem bot
-  - Useful when you only want to be informed about scheduled gaming sessions
+  - Useful when you only want to be informed about gaming sessions
 
 
 - Click to join the [Sweden Mayhem group chat](https://t.me/+pSTKkBrip2MyODU0)
@@ -55,8 +54,8 @@ We maintain both a channel and group chat on Telegram.
 
 We dislike the need for account registration, obligatory introductions on forums or Discord servers, lengthy community rule readings, and commitments to timed events.
 
-We believe that gaming should be straightforward and enjoyable, not a time-consuming endeavor.
+Our gaming servers are online most of the time, the scheduled gaming sessions only offer the best opportunity to find a gaming buddy.
 
-While our gaming servers are online most of the time, the scheduled gaming sessions offer the best opportunity to find a gaming buddy.
+We believe that gaming should be straightforward and enjoyable, not a time-consuming endeavor.
 
 We reserve the right to take action, including kicking and banning individuals, in order to uphold this standard of friendliness and respect within our community.
