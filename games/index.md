@@ -9,7 +9,6 @@ menu:
 -----------------------------------------------------------------------------
 
 # Welcome to {{ title }}
----
 
 Sweden Mayhem is a multiplayer gaming community built on a few core principles:
 
