@@ -22,6 +22,7 @@ Sweden Mayhem is a multiplayer gaming community built on a few core principles:
 You can delve deeper into our [core principles](#toc-item-3) below.
 
 ## Getting Started
+---
 
 To kick off your gaming journey, utilize the menu at the top to access information about our available games.
 
@@ -33,6 +34,7 @@ To kick off your gaming journey, utilize the menu at the top to access informati
 - [Join us on Telegram](#toc-item-2) for announcements and chat (optional)
 
 ## Telegram Chat, Voice & Announcements
+---
 
 We maintain both a channel and group chat on Telegram.
 
@@ -50,6 +52,7 @@ We maintain both a channel and group chat on Telegram.
   - Ideal for text or voice communication
 
 ## Core Principles
+---
 
 We dislike the need for account registration, obligatory introductions on forums or Discord servers, lengthy community rule readings, and commitments to timed events.
 

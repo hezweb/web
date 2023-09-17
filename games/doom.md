@@ -6,8 +6,11 @@ menu    :
 -----------------------------------------------------------------------------
 
 # {{ title }}
+---
 
 ## Automatic Installation - Recommended
+---
+
 Sweden Mayhem offers a complete DOOM package for quick jump-in-and-play sessions on Windows, no installation required.
 
 The package includes:
@@ -22,6 +25,8 @@ The package includes:
 You can always download the latest version of the package [here](http://doom.hezkore.com:8080/doom/).
 
 ## Manual Installation - Advanced
+---
+
 If you prefer to install the games manually, you can follow the instructions below.
 
 ### Client setup
