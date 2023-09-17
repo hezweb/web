@@ -12,7 +12,7 @@ menu:
 
 ### Brutal DOOM: Nordic Nightmare Edition
 - **Time**: Saturdays 21:00 UTC+2
-- **Description**: Co-op survival playthrough of the entire DOOM 1 campaign, with the [Brutal DOOM](https://www.moddb.com/mods/brutal-doom) mod and 7 times the normal amount of damage to the player.
+- **Description**: Co-op survival playthrough of the entire DOOM 1 campaign, with the Brutal DOOM mod and 7 times the normal amount of damage to the player.
 
 ## DOOM 2
 ---
