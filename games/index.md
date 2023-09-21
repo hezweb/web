@@ -5,6 +5,7 @@ menu:
   Schedule: schedule.md
   DOOM: doom.md
   OpenTTD: openttd.md
+  Minecraft: /minecraft
 -----------------------------------------------------------------------------
 
 # Welcome to {{ title }}
