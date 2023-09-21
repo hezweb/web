@@ -293,7 +293,7 @@
 				<ul type="circle">
 					<li><small><i>This will lower how far you can see into the distance</i></small></li>
 					<li><small><i>A <strong>Render Distance</strong> below <strong>4</strong> is not recommended</i></small></li>
-					<li><small><i>A <strong>Render Distance</strong> above <strong>12</strong> will have no effect while playing on the server</i></small></li>
+					<li><small><i>A <strong>Render Distance</strong> above <strong>8</strong> will have no effect while playing on the server</i></small></li>
 				</ul>
 			</ul>
 			<li>Disable <strong>shaders</strong></li>
@@ -321,7 +321,7 @@
 					<li>Contact <a target="_blank" href="https://t.me/Hezkore">@Hezkore</a> for password</li>
 				</ul>
 			</i></small>
-			<li>Server maintenance starts at <strong>04:30 CET</strong> and lasts for <strong>about 30~60 minutes</strong> depending on updates</li>
+			<li>Server maintenance starts <strong>Tuesday 04:30 CET</strong> and lasts for <strong>about 30~60 minutes</strong> depending on updates</li>
 			<li>During maintenance the server downloads the latest Minecraft server version</li>
 			<small><i>
 				<ul type="circle">
@@ -330,10 +330,10 @@
 			</i></small>
 			<li>A backup of the current world is created during each maintenance</li>
 			<li>Auto save is triggered every <strong>15 minutes</strong></li>
-			<li>Server render distance is <strong>12</strong></li>
+			<li>Server render distance is <strong>8</strong></li>
 			<small><i>
 				<ul type="circle">
-					<li>So you should set your <strong>Render Distance</strong> to <strong>12</strong> as well</li>
+					<li>So you should set your <strong>Render Distance</strong> to <strong>8</strong> as well</li>
 				</ul>
 			</i></small>
 			<li>Max player limit is <strong><span class="server-players-max"> querying...</span></strong></li>
@@ -342,11 +342,7 @@
 					<li><span class="server-players-now-info">No players online right now</span></li>
 				</ul>
 			</i></small>
-			<li>The server does not authenticate with the Minecraft account database</li>
 			<li>Running server software <strong><span class="server-name"> querying...</span></strong></li>
-			<li>Server runs on a <strong>4 core 3.0GHz AMD processor</strong></li>
-			<li>Minecraft is limited to <strong>6GB</strong> ram from the servers total 16GB ram</li>
-			<li>The server has a <strong>300Mbit</strong> upload rate</li>
 			<li>Server address is <strong>minecraft.hezkore.com</strong></li>
 		</ul>
 		<p><strong>Features:</strong></p>
@@ -361,37 +357,7 @@
 					<li>Trusted players are not required to login</li>
 				</ul></i>
 			</ul></i></small>
-			<li>Skins for authenticated and unauthenticated players</li>
-			<small><i>
-				<ul type="disc">
-					<li>Type <strong>/skins</strong> to select your skin</li>
-					<li>Type <strong>/skin url &ltskin.png url&gt [steve / slim]</strong> to upload your own skin</li>
-					<ul type="circle">
-						<li>You can use skin urls directly from <a target="_blank" href="https://www.minecraftskins.com/">minecraftskins.com</a> by clicking <strong>Image Link</strong> and copying the link</li>
-					</ul>
-				</ul>
-			</i></small>
-			<li>You can view the world map online by going <a target="_blank" href="http://minecraft.hezkore.com:8100">here</a></li>
-			<small><i>
-				<ul type="circle">
-					<li>Will be unavailable during maintenance</li>
-					<li>Does not render caves with no natural sky light and never below depth 0</li>
-				</ul>
-			</i></small>
-			<small><i><ul type="disc">
-				<li>Type <strong>/bluemap marker create &ltid&gt &ltmap-id&gt [x y z] &ltlabel&gt</strong> to place a marker on the world map</li>
-				<i>
-					<ul type="circle">
-						<li>Accepted <strong>map-ids</strong> are <strong>world</strong>, <strong>nether</strong> and <strong>end</strong></li>
-					</ul>
-					<ul type="circle">
-						<li>You can get <strong>x y</strong> and <strong>z</strong> coordinates from the online world map, or leave it empty to use your curren in-game coordinates</li>
-					</ul>
-				</i>
-				<li>Type <strong>/bluemap marker remove &ltid&gt</strong> to remove a marker</li>
-				<li>Type <strong>/bluemap marker list</strong> to list all existing markers and their ids</li>
-			</ul></i></small>
-			<li>The last 7 world backups can be found <a target="_blank" href="http://worldbackup.hezkore.com">here</a></li>
+			<li>The last 14 world backups can be found <a target="_blank" href="http://minecraft.hezkore.com:8080/world_backups/">here</a></li>
 			<small><i>
 				<ul type="circle">
 					<li>May be unavailable during maintenance</li>
@@ -405,45 +371,6 @@
 						<li>A ping below <strong>115ms</strong> is usually fine</li>
 					</ul>
 					<li>Type <strong>/ping &ltplayer&gt</strong> to see another players ping</li>
-				</ul>
-			</i></small>
-			<li>Display where mobs can spawn</li>
-			<small><i>
-				<ul type="disc">
-					<li>Type <strong>/LL</strong> to toggle mob spawn indication</li>
-					<ul type="circle">
-						<li>Smoke indicates a block dark enough for mobs to spawn on</li>
-					</ul>
-				</ul>
-			</i></small>
-			<li>Sort container items</li>
-			<small><i>
-				<ul type="disc">
-					<li>Right click outside any container <small><i>(inventory, chest etc.)</i></small> to automatically sort it</li>
-					<ul type="circle">
-						<li>Only works once every second</li>
-					</ul>
-					<li>Type <strong>/sortingconfig categories set &ltcategory&gt</strong> if you want to change sorted categories</li>
-					<li>Type <strong>/sortingconfig categories reset</strong> to reset to default categories</li>
-				</ul>
-			</i></small>
-			<li>Refill hotbar items</li>
-			<small><i>
-				<ul type="circle">
-					<li>All item types enabled by default</li>
-				</ul>
-				<ul type="disc">
-					<li>Type <strong>/sortingconfig refill &ltBLOCKS/BREAKABLES/CONSUMABLES&gt &lttrue/false&gt</strong> to set refill for a specific item type</li>
-					<li>Type <strong>/sortingconfig refill &lttrue/false&gt</strong> to set refill for all item types</li>
-				</ul>
-			</i></small>
-			<li>Beehive information</li>
-			<small><i>
-				<ul type="disc">
-					<li><strong>Right click</strong> a beehive to get in-game information about it</li>
-				</ul>
-				<ul type="circle">
-					<li>Only works when your hands are empty</li>
 				</ul>
 			</i></small>
 			<li>Playtime</li>
@@ -461,60 +388,6 @@
 				</ul>
 				<ul type="disc">
 					<li>Dropping your current death compass will <strong>destroy it forever</strong></li>
-				</ul>
-			</i></small>
-			<li>Away from keyboard</li>
-			<small><i>
-				<ul type="circle">
-					<li>A player enters <strong>AFK</strong> mode after <strong>3 minutes</strong> of <strong>standing still</strong></li>
-					<li>Moving will force the player out of AFK mode</li>
-					<li>A player in AFK mode <strong>will not block sleeping attempts</strong></li>
-					<li>A <span style="color:rgb(100, 100, 100)"><strong><i>[AFK]</i></span> suffix</strong> is applied to AFK players in the <strong>TAB player list</strong></li>
-				</ul>
-				<ul type="disc">
-					<li>Type <strong>/afk</strong> to manually enter or leave AFK mode</li>
-					<li>Type <strong>/afk &ltreason&gt</strong> to enter AFK mode with a broadcasted reason</li>
-				</ul>
-			</i></small>
-			<li>Private messages</li>
-			<small><i>
-				<ul type="disc">
-					<li>Type <strong>/pm &ltplayer&gt &ltyour message&gt</strong> to send a private message to any player</li>
-					<li>Type <strong>/r &ltyour message&gt</strong> reply to the last private message you </li>
-				</ul>
-			</i></small>
-			<li>Mail</li>
-			<small><i>
-				<ul type="circle">
-					<li>Send messages to offline players by using the mail system</li>
-					<li>Players are notified about received mail during login</li>
-				</ul>
-				<ul type="disc">
-					<li>Type <strong>/mail send &ltplayer&gt &ltyour message&gt</strong> to send mail to any player</li>
-					<li>Type <strong>/mail read</strong> to read your received mail</li>
-					<li>Type <strong>/mail</strong> for more mail commands</li>
-				</ul>
-			</i></small>
-			<li>Hats!</li>
-			<small><i>
-				<ul type="disc">
-					<li>Most items can be placed in your <strong>head equipment slot</strong></li>
-				</ul>
-			</i></small>
-			<li>Me Action</li>
-			<small><i>
-				<ul type="disc">
-					<li>Type <strong>/me &ltdoes something&gt</strong> to display a IRC styled me action message</li>
-				</ul>
-			</i></small>
-			<li>Recipes</li>
-			<small><i>
-				<ul type="disc">
-					<li>Type <strong>/recipe &ltitem_name&gt</strong> to display the recipe for that item</li>
-					<ul type="circle">
-						<li>Typing <strong>/formula &ltitem_name&gt</strong> also works</li>
-					</ul>
-					<li>Type <strong>/itemdb &ltitem_name&gt</strong> to search for an item name</li>
 				</ul>
 			</i></small>
 		</ul>
