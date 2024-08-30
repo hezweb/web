@@ -1,44 +1,18 @@
 -----------------------------------------------------------------------------
 github  : https://github.com/hezkore
-title   : DOOM 1, 2 & Sigil
+title   : DOOM 1 & 2 - Weekly Rotation
 menu    :
   Back Home  : index.md
 -----------------------------------------------------------------------------
 
 # {{ title }}
 
-## Automatic Installation - Recommended
+## Installation
+You will need 3 things:
+1. The `wad` files from [DOOM 1](https://skumrask.se/files/doom/base/DOOM.WAD) & [DOOM 2](https://skumrask.se/files/doom/base/DOOM2.WAD).
+2. [Zandronum](https://zandronum.com) to play multiplayer.\
+3. And [Doomseeker](https://doomseeker.drdteam.org) to join the server.
+
+### Automatic install for Windows
 ---
-
-Sweden Mayhem offers a complete DOOM package for quick jump-in-and-play sessions on Windows, no installation required.
-
-The package includes:
-
-- A custom launcher with all the campaigns and multiplayer pre-configured
-- DOOM 1 (TNT & Plutonia), DOOM 2 (Master Levels) and Sigil campaigns
-- [Brutal DOOM](https://www.moddb.com/mods/brutal-doom) mod
-- [DOOM Metal Soundtrack](https://www.moddb.com/mods/brutal-doom/addons/doom-metal-soundtrack-smoosh-edition) mod
-- Pre-configured [Zandronum](https://zandronum.com/) client
-
-### Download
-You can always download the latest version of the package [here](http://doom.hezkore.com:8080/doom/).
-
-## Manual Installation - Advanced
----
-
-If you prefer to install the games manually, you can follow the instructions below.
-
-### Client setup
-You will need the DOOM WAD files, the Brutal DOOM mod, DOOM Metal Soundtrack mod and the Zandronum client.
-
-- You can find all the WAD files and mods on the [Sweden Mayhem DOOM depot](http://doom.hezkore.com:8080).
-- The Zandronum client can be download from the [official website](https://zandronum.com/download).
-
-### Joining the server
-
-Once you have the Zandronum client installed and setup, you can join the "Sweden Mayhem" server either via the in-game server browser, or by entering the server address manually in the console via the `connect` command.
-
-- Server address: `doom.hezkore.com`
-  - Port 10666 for DOOM 1
-  - Port 10667 for DOOM 2
-  - Port 10668 for Sigil
+Download the Sweden Mayhem DOOM installer from [here](https://skumrask.se/files/zandronum.exe) and run it.

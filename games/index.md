@@ -12,7 +12,7 @@ menu:
 
 Sweden Mayhem is a multiplayer gaming community built on a few core principles:
 
-- No registration or commitments required
+- No registration or commitments required (even if they are available)
 - No mandatory social interactions
 - No or limited installation requirements
 - Easy to maintain anonymity and privacy
@@ -35,25 +35,18 @@ To kick off your gaming journey, utilize the game menu at the top to access info
 ## Telegram Chat, Voice & Announcements
 ---
 
-We maintain both a channel and group chat on Telegram.
-
-- Click to join the [Sweden Mayhem channel](https://t.me/+ypcUd8UWDfI2NzJk)
-  - Anonymous (your membership is private and hidden)
-  - No user messages or voice chat
-  - Automatic announcements from our Sweden Mayhem bot
-  - Useful when you only want to be informed about gaming sessions
-
+We maintain group chat on Telegram.
 
 - Click to join the [Sweden Mayhem group chat](https://t.me/+pSTKkBrip2MyODU0)
-  - A standard Telegram group chat
+  - A topic based Telegram group chat
   - Allows user messages and voice chat
-  - Automatic announcements are also visible here
-  - Ideal for text or voice communication
+  - Automatic announcements
+  - Ideal for text and voice communication
 
 ## Core Principles
 ---
 
-We dislike the need for account registration, obligatory introductions on forums or Discord servers, lengthy community rule readings, and commitments to timed events.
+We dislike the need for account registration, obligatory introductions on forums or Discord servers, lengthy community rule readings, and long-term commitments.
 
 Our gaming servers are online most of the time, the scheduled gaming sessions only offer the best opportunity to find a gaming buddy.
 
