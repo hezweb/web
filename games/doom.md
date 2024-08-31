@@ -15,6 +15,17 @@ You will need 3 things:
 
 ### Automatic install for Windows
 ---
-Download the Sweden Mayhem DOOM package from [here](https://skumrask.se/files/zandronum/zandronum.zip) and extract it anywhere you want.
+- This includes everything you need.
+- Download the Zip from [here](https://skumrask.se/files/zandronum/zandronum.zip) and extract it anywhere you want.
+- Run `start.bat` and you're good to go.
 
-Just run `start.bat` and you're good to go.
+### Account & Login (optional)
+---
+The Sweden Mayhem server has a points system.
+The points are tied to your account, and without an account you can't earn points.
+
+You can register an account at [auth.zandronum.com](https://auth.zandronum.com/register)
+
+Your account username and your player name **do not** have to be the same.
+
+The automatic install for Windows includes a `set_login.bat` you can run for easy login when you have an account.
