@@ -15,6 +15,6 @@ You will need 3 things:
 
 ### Automatic install for Windows
 ---
-Download the Sweden Mayhem DOOM package from [here](https://skumrask.se/files/zandronum.zip) and extract it anywhere you want.
+Download the Sweden Mayhem DOOM package from [here](https://skumrask.se/files/zandronum/zandronum.zip) and extract it anywhere you want.
 
 Just run `start.bat` and you're good to go.
